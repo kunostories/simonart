@@ -3,7 +3,7 @@ simonart
 
 Website for artist Michael A. Simon
 
-Assignment 1: Responsive Design Project for 
+Assignment 1: Responsive Design Project for
 Harvard Extension DGMD E-20: Understanding and Developing Multimedia
 
 Michael A. Simon is a friend of mine living in Gwangju, South Korea. He took over my lease on a club house affectionately known as the "Art House" located in a prime location on Art Street in downtown Gwangju. Michael asked me to redo is personal/professional art website. This project is the result.
