@@ -44,9 +44,9 @@
                 <h3 class="head-brand hidden-xs"><a href="/" title="home">Michael Anthony Simon Art</a></h3>
                 <ul class="nav head-nav">
                   <li><a href="/"><i class="glyphicon glyphicon-home"></i> Home</a></li>
-                  <li><a href="galleries"><i class="glyphicon glyphicon-picture"></i> Galleries</a></li>
-                  <li><a href="cv"><i class="glyphicon glyphicon-list-alt"></i> CV</a></li>
-                  <li><a href="contact"><i class="glyphicon glyphicon-pencil"></i> Contact</a></li>
+                  <li><a href="galleries.php"><i class="glyphicon glyphicon-picture"></i> Galleries</a></li>
+                  <li><a href="cv.php"><i class="glyphicon glyphicon-list-alt"></i> CV</a></li>
+                  <li><a href="contact.php"><i class="glyphicon glyphicon-pencil"></i> Contact</a></li>
                 </ul>
               </div>
             </div>
