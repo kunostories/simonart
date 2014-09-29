@@ -12,23 +12,23 @@
 
         <div id="links">
           <p>Click any image to view gallery.</p>
-            <a href="23.jpg" title="web">
-                <img src="320/23.jpg" alt="web">
+            <a href="1.jpg" title="web">
+                <img src="320/1.jpg" alt="web">
             </a>
-            <a href="26.jpg" title="web">
-                <img src="320/26.jpg" alt="web">
+            <a href="3.jpg" title="web">
+                <img src="320/3.jpg" alt="web">
             </a>
-            <a href="29.jpg" title="web">
-                <img src="320/29.jpg" alt="web">
+            <a href="6.jpg" title="web">
+                <img src="320/6.jpg" alt="web">
             </a>
-            <a href="32.jpg" title="web">
-                <img src="320/32.jpg" alt="web">
+            <a href="8.jpg" title="web">
+                <img src="320/8.jpg" alt="web">
             </a>
-            <a href="34.jpg" title="web" data-gallery>
-                <img src="320/34.jpg" alt="web">
+            <a href="9.jpg" title="web" data-gallery>
+                <img src="320/9.jpg" alt="web">
             </a>
-            <a href="42.jpg" title="web" data-gallery>
-                <img src="320/42.jpg" alt="web">
+            <a href="100.jpg" title="web" data-gallery>
+                <img src="320/100.jpg" alt="web">
             </a>
         </div>
 

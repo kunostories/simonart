@@ -14,6 +14,15 @@
 
     <!-- BlueImp gallery scripts -->
     <script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-    <script src="/simonart/include/js/bootstrap-image-gallery.min.js"></script>
+    <script>
+      document.getElementById('links').onclick = function (event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement,
+              link = target.src ? target.parentNode : target,
+              options = {index: link, event: event},
+              links = this.getElementsByTagName('a');
+          blueimp.Gallery(links, options);
+      };
+    </script>
    </body>
 </html>
