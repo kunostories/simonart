@@ -24,5 +24,10 @@
           blueimp.Gallery(links, options);
       };
     </script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('#webCarousel').carousel();
+      });
+    </script>
    </body>
 </html>
