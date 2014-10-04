@@ -130,6 +130,9 @@ padding-left: 0px; /* override default */
 .dropdown-menu {
   background-color: #222;
 }
+.open > .dropdown-menu {
+  display: inline-flex;
+}
 .dropdown-menu>li>a {
   color: #FFF;
 }

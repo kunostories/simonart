@@ -48,17 +48,16 @@
                 <h3 class="head-brand hidden-xs"><a href="/simonart" title="home">Michael Anthony Simon Art</a></h3>
                 <ul class="nav head-nav">
                   <li><a href="/simonart"><i class="glyphicon glyphicon-home"></i> Home</a></li>
+                  <li><a href="/simonart/cv.php"><i class="glyphicon glyphicon-list-alt"></i> CV</a></li>
                   <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/simonart/galleries.php"><i class="glyphicon glyphicon-picture"></i> Galleries <span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                    <ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="dLabel">
                       <li><a href="/simonart/galleries/webs" title="Webs gallery">Webs</a></li>
                       <li><a href="/simonart/galleries/plants" title="Plants gallery">Plants</a></li>
                       <li><a href="/simonart/galleries/silence" title="Silence gallery">Silence</a></li>
-                      <li role="presentation" class="divider"></li>
                       <li><a href="/simonart/galleries.php" title="All gallery">All</a></li>
                     </ul>
                   </li>
-                  <li><a href="/simonart/cv.php"><i class="glyphicon glyphicon-list-alt"></i> CV</a></li>
                   <li><a href="/simonart/contact.php"><i class="glyphicon glyphicon-pencil"></i> Contact</a></li>
                 </ul>
               </div>
