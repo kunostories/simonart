@@ -15,5 +15,15 @@ The main objective of the course project is to build a site with a responsive de
 
 Please view the site through different viewports to experience the full effect.
 
+<h2>Requirements:</h2>
+
+<h3>3 Components</h3>
+<ol>
+	<li>Glyphicons - navbar (index.php), and contact form (/contact)</li>
+	<li>Responsive Utilities - hidden, visible (index.php)</li>
+	<li>Buttons - Galleries-> All (/galleries.php)</li>
+</ol>
+
+
 Cheers,
 Shawn

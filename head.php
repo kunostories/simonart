@@ -54,6 +54,8 @@
                       <li><a href="/simonart/galleries/webs" title="Webs gallery">Webs</a></li>
                       <li><a href="/simonart/galleries/plants" title="Plants gallery">Plants</a></li>
                       <li><a href="/simonart/galleries/silence" title="Silence gallery">Silence</a></li>
+                      <li role="presentation" class="divider"></li>
+                      <li><a href="/simonart/galleries.php" title="All gallery">All</a></li>
                     </ul>
                   </li>
                   <li><a href="/simonart/cv.php"><i class="glyphicon glyphicon-list-alt"></i> CV</a></li>
