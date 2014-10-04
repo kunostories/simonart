@@ -125,6 +125,26 @@ img.img-light, img.img-dark:hover {
   display: inline-block;
 }
 
+.dropdown-menu a {
+  text-shadow: none;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+ background-color: #222;
+ border-color: inherit; 
+}
+
+.dropdown-menu {
+  background-color: #222;
+}
+.dropdown-menu>li>a {
+  color: #FFF;
+}
+.dropdown-menu>li>a:hover {
+  color: #FFF;
+  background-color: #666;
+}
+
 /*
  * Footer
  */

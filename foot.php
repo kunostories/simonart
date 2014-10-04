@@ -27,6 +27,7 @@
     <script type="text/javascript">
       $(document).ready(function() {
         $('#webCarousel').carousel();
+        $('.dropdown-toggle').dropdown();
       });
     </script>
    </body>
