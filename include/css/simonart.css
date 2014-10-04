@@ -92,14 +92,7 @@ padding-left: 0px; /* override default */
   vertical-align: middle;
 }
 
-/* Images */
-img.img-dark, img.img-light:hover {
-  opacity: 0.3;
-}
-/* Images */
-img.img-light, img.img-dark:hover {
-  opacity: 1;
-}
+
 
 #art-contact {
   font-family: "Open Sans", Helvetica, sans-serif;

@@ -1,4 +1,4 @@
-simonart
+Simon Art Website
 ========
 
 Website for artist Michael A. Simon
@@ -39,9 +39,9 @@ Please view the site through different viewports to experience the full effect.
 
 <h3>5 Customized Bootstrap styles using LESS</h3>
 <ol>
-	<li>wait a second</li>
-	<li>give me a few days</li>
-	<li>in progress</li>
+	<li>@btn-primary - seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
+	<li>@btn-success - seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
+	<li>@btn-danger - seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
 	<li>working on it</li>
 	<li>please hold</li>
 </ol>
