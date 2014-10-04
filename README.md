@@ -26,7 +26,7 @@ Please view the site through different viewports to experience the full effect.
 
 <h3>2 Javascript Widgets</h3>
 <ol>
-	<li>Carousel - Webs Gallery (<a href="http://vultor.com/simonart/galleries/web">/galleries/webs</a>)</li>
+	<li>Carousel - Webs Gallery (<a href="http://vultor.com/simonart/galleries/webs">/galleries/webs</a>)</li>
 	<li>Collapse - navbar-> Galleries (<a href="http://vultor.com/simonart/">index.php</a>)</li>
 </ol>
 
