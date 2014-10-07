@@ -92,12 +92,6 @@ padding-left: 0px; /* override default */
   vertical-align: middle;
 }
 
-
-
-#art-contact {
-  font-family: "Open Sans", Helvetica, sans-serif;
-}
-
 #art-cv {
   padding-bottom: 4em;
   color: #222;
@@ -110,23 +104,18 @@ padding-left: 0px; /* override default */
   margin: 0;
 }
 
+/* for the webs gallery carousel */
 .item {
   height: 500px !important;
 }
-
 .img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
   display: inline-block;
 }
 
+/* nav dropdown styling */
 .dropdown-menu a {
   text-shadow: none;
 }
-
-.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
- background-color: #222;
- border-color: inherit; 
-}
-
 .dropdown-menu {
   background-color: #222;
 }
@@ -140,6 +129,11 @@ padding-left: 0px; /* override default */
   color: #FFF;
   background-color: #666;
 }
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+ background-color: #222;
+ border-color: inherit; 
+}
+
 
 /*
  * Footer
@@ -156,7 +150,7 @@ i.form-control-feedback {
   color: #222;
 }
 
-/* Glyphicons inside input aligned left hack from Stackoverflow
+/* Glyphicons inside input aligned left from Stackoverflow
  * http://stackoverflow.com/a/18839305
  */
 .has-feedback .form-control {
@@ -204,6 +198,7 @@ i.form-control-feedback {
 .has-feedback label.sr-only ~ div .form-control-feedback {
   top: 0;
 }
+
 @media (min-width: 768px) {
   .form-inline .inline-feedback {
     position: relative;

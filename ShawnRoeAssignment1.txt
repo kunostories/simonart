@@ -1,19 +1,11 @@
-Simon Art Website
-========
+Shawn Roe
+Assignment 1: Responsive Design
+DGMD E-20 with Jen Kramer
+Due 10/10/2014
 
-Website for artist Michael A. Simon
+Address: http://vultor.com/simonart/
 
-Assignment 1: Responsive Design Project for:
-
-Harvard Extension DGMD E-20: Understanding and Developing Multimedia
-
-Michael A. Simon is a friend of mine living in Gwangju, South Korea. He took over my lease on a club house affectionately known as the "Art House" located in a prime location on Art Street in downtown Gwangju. Michael asked me to redo is personal/professional art website. This project is the result.
-
-His goal is to keep the site "simple so that the art will shine". It is with that in mind that I have designed and built the site.
-
-The main objective of the course project is to build a site with a responsive design using the Twitter Bootstrap framework and LESS.
-
-Please view the site through different viewports to experience the full effect.
+What are the 5 (minimum) styles you customized with LESS CSS? What LESS partial file are they located in?
 
 <h2>Requirements:</h2>
 
@@ -24,21 +16,11 @@ Please view the site through different viewports to experience the full effect.
 	<li>Buttons - Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
 </ol>
 
-<h3>Responsive Navigation</h3>
-<p>
-	Check. Found at small screen resolutions.
-</p>
-
 <h3>2 Javascript Widgets</h3>
 <ol>
 	<li>Carousel - Webs Gallery (<a href="http://vultor.com/simonart/galleries/webs">/galleries/webs</a>)</li>
 	<li>Collapse - navbar-> Galleries (<a href="http://vultor.com/simonart/">index.php</a>)</li>
 </ol>
-
-<h3>Custom LESS stylesheet</h3>
-<p>
-	Check. Found at <a href="http://vultor.com/simonart/include/bootstrap3/less/custom.less">custom.less</a>
-</p>
 
 <h3>3 Custom LESS styles</h3>
 <ol>
