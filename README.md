@@ -26,7 +26,7 @@ Please view the site through different viewports to experience the full effect.
 
 <h3>Responsive Navigation</h3>
 <p>
-	Check. Found at small screen resolutions.
+	Check. Seen on small screen resolutions.
 </p>
 
 <h3>2 Javascript Widgets</h3>
@@ -35,23 +35,16 @@ Please view the site through different viewports to experience the full effect.
 	<li>Collapse - navbar-> Galleries (<a href="http://vultor.com/simonart/">index.php</a>)</li>
 </ol>
 
-<h3>Custom LESS stylesheet</h3>
+<h3>Custom LESS stylesheet with 3 custom styles</h3>
 <p>
-	Check. Found at <a href="http://vultor.com/simonart/include/bootstrap3/less/custom.less">custom.less</a>
+	Check. Seen at <a href="http://vultor.com/simonart/include/bootstrap3/less/custom.less">custom.less</a>
 </p>
-
-<h3>3 Custom LESS styles</h3>
-<ol>
-	<li>in progress</li>
-	<li>working on it</li>
-	<li>please hold</li>
-</ol>
 
 <h3>5 Customized Bootstrap styles using LESS</h3>
 <ol>
-	<li>@btn-primary - seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-	<li>@btn-success - seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-	<li>@btn-danger - seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-	<li>@font-family-sans-serif - seen on all pages with text</li>
-	<li>@font-size-base - seen on all pages with text</li>
+	<li>@btn-primary - in variables.less seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
+	<li>@btn-success - in variables.less seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
+	<li>@btn-danger - in variables.less seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
+	<li>@font-family-sans-serif - in variables.less seen on all pages with text</li>
+	<li>@font-size-base - in variables.less seen on all pages with text</li>
 </ol>

@@ -9,7 +9,7 @@
             <hr class="visible-xs-block">
             <div class="col-sm-4">
               <a href="galleries/plants" title="Plants gallery"><img class="img-responsive img-light" src="img/blue-tree.jpg" alt="Michael Simon Plant gallery"></a>
-              <a href="galleries/plants" title="Plants gallery" class="btn btn-lg btn-dark">Plants Gallery</a>
+              <a href="galleries/plants" title="Plants gallery" class="btn btn-lg btn-primary">Plants Gallery</a>
             </div>
             <hr class="visible-xs-block">
             <div class="col-sm-4 ">

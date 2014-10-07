@@ -6300,6 +6300,23 @@ a:hover {
   background-color: #222;
   border-color: inherit;
 }
+/* buttons with mixins to be used later
+.btn-purple {
+  .button-variant(#F2F15D; @brand-purple; darken(@brand-purple, 15%));
+  font-family: Georgia, "Times New Roman", serif;
+  text-shadow: none;
+}
+.btn-orange {
+  .button-variant(#F2F15D; @brand-orange; darken(@brand-orange, 15%));
+  font-family: Georgia, "Times New Roman", serif;
+  text-shadow: none;
+}
+.btn-mustard {
+  .button-variant(#16064C; @brand-mustard; darken(@brand-mustard, 15%));
+  font-family: Georgia, "Times New Roman", serif;
+  text-shadow: none;
+}
+*/
 /*
  * Footer
  */
