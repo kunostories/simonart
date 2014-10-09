@@ -5,36 +5,29 @@ Due 10/10/2014
 
 Address: http://vultor.com/simonart/
 
-<h2>Requirements:</h2>
+Requirements:
 
-<h3>3 Components</h3>
-<ol>
-	<li>Glyphicons - navbar (<a href="http://vultor.com/simonart/">index.php</a>), and contact form (<a href="http://vultor.com/simonart/contact.php">/contact.php</a>)</li>
-	<li>Responsive Utilities - hidden, visible (<a href="http://vultor.com/simonart/">index.php</a>)</li>
-	<li>Buttons - Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-</ol>
+3 Components
+	Glyphicons - 	navbar http://vultor.com/simonart/
+			contact form http://vultor.com/simonart/contact.php
+	Responsive Utilities - hidden, visible http://vultor.com/simonart/
+	Buttons - Galleries-> All http://vultor.com/simonart/galleries.php
 
-<h3>Responsive Navigation</h3>
-<p>
+
+Responsive Navigation
 	Check. Seen on small screen resolutions.
-</p>
 
-<h3>2 Javascript Widgets</h3>
-<ol>
-	<li>Carousel - Webs Gallery (<a href="http://vultor.com/simonart/galleries/webs">/galleries/webs</a>)</li>
-	<li>Collapse - navbar-> Galleries (<a href="http://vultor.com/simonart/">index.php</a>)</li>
-</ol>
+2 Javascript Widgets
+	Carousel - Webs Gallery http://vultor.com/simonart/galleries/webs
+	Collapse - navbar-> Galleries http://vultor.com/simonart/
 
-<h3>Custom LESS stylesheet with 3 custom styles</h3>
-<p>
-	Check. Seen at <a href="http://vultor.com/simonart/include/bootstrap3/less/custom.less">custom.less</a>
-</p>
+Custom LESS stylesheet with 3 custom styles
+	Check. http://vultor.com/simonart/include/bootstrap3/less/custom.less
 
-<h3>5 Customized Bootstrap styles using LESS</h3>
-<ol>
-	<li>@btn-primary - in variables.less seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-	<li>@btn-success - in variables.less seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-	<li>@btn-danger - in variables.less seen on Galleries-> All (<a href="http://vultor.com/simonart/galleries.php">/galleries.php</a>)</li>
-	<li>@font-family-sans-serif - in variables.less seen on all pages with text</li>
-	<li>@font-size-base - in variables.less seen on all pages with text</li>
-</ol>
+5 Customized Bootstrap styles using LESS
+
+	@btn-primary - in variables.less Galleries-> All http://vultor.com/simonart/galleries.php
+	@btn-success - in variables.less Galleries-> All http://vultor.com/simonart/galleries.php
+	@btn-danger - in variables.less Galleries-> All http://vultor.com/simonart/galleries.php
+	@font-family-sans-serif - in variables.less seen on all pages with text
+	@font-size-base - in variables.less seen on all pages with text

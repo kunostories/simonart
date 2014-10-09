@@ -7,6 +7,7 @@
 		if(($_SESSION['security_code'] == $_POST['security_code']) && (!empty($_SESSION['security_code']))) {
 
 			$my_email = 'shawn@shawnroe.com';
+			$subject = 'SimonArt Note Contact Form';
 
 			// get posted data
 			$name = $_POST['cf-name'];
@@ -14,14 +15,13 @@
 			$message = $_POST['cf-message'];
 
 			// write email content 
-			$email_content = "Message from SimonArt vultor.com/simonart\n\n\n
-							Name: $name\n"; 
-			$email_content .= "Email: $email_address\n\n"; 
+			$email_content = "Message from SimonArt vultor.com/simonart\n\n\nName: $name\n"; 
+			$email_content .= "Email: $email_address\n"; 
 			$email_content .= "Message:\n\n" . stripslashes($message);
-			$from = "from: $name <$email_address>";
+			$from = "$name <$email_address>";
 			     
 			// send email 
-			mail ($my_email, $subject, $email_content, $from); 
+			mail($my_email, $subject, $email_content, $from); 
 			     
 			unset($_SESSION['security_code']);
 

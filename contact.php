@@ -15,21 +15,21 @@
                 <div class="form-group has-feedback has-feedback-left">
                   <label for="cf-name" class="col-sm-3 control-label">Name</label>
                   <div class="col-sm-9">
-                    <input type="text" class="form-control" id="cf-name" placeholder="Your Name">
+                    <input type="text" class="form-control" name="cf-name" id="cf-name" placeholder="Your Name">
                     <i class="form-control-feedback glyphicon glyphicon-user"></i>
                   </div>
                 </div>
                 <div class="form-group has-feedback has-feedback-left">
                   <label for="cf-email" class="col-sm-3 control-label">Email</label>
                   <div class="col-sm-9">
-                    <input type="email" class="form-control" id="cf-email" placeholder="your@email.com">
+                    <input type="email" class="form-control" name="cf-email" id="cf-email" placeholder="your@email.com">
                     <i class="form-control-feedback glyphicon glyphicon-envelope"></i>
                   </div>
                 </div>
                 <div class="form-group has-feedback has-feedback-left">
                   <label for="cf-message" class="col-sm-3 control-label">Message</label>
                   <div class="col-sm-9">
-                    <textarea class="form-control" rows="7" id="cf-message" placeholder="Your message here."></textarea>
+                    <textarea class="form-control" rows="7" name="cf-message" id="cf-message" placeholder="Your message here."></textarea>
                     <i class="form-control-feedback glyphicon glyphicon-pencil"></i>
                   </div>
                 </div>
