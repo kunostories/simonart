@@ -6262,6 +6262,14 @@ a:hover {
 #art-cv p {
   margin: 0;
 }
+/* contact form spam honeypot */
+.robotic {
+  display: none;
+}
+#contact-alert {
+  text-shadow: none;
+  font-weight: bold;
+}
 /* for the webs gallery carousel */
 .item {
   height: 500px !important;

@@ -9,8 +9,15 @@
     </div>
 
     <!--JScript-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="/simonart/include/bootstrap3/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('#webCarousel').carousel();
+        $('.dropdown-toggle').dropdown();
+      });
+    </script>
 
     <!-- BlueImp gallery scripts -->
     <script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
@@ -24,11 +31,8 @@
           blueimp.Gallery(links, options);
       };
     </script>
-    <script type="text/javascript">
-      $(document).ready(function() {
-        $('#webCarousel').carousel();
-        $('.dropdown-toggle').dropdown();
-      });
-    </script>
+
+    <!-- Bootstrap Validator scripts -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.2/js/bootstrapValidator.min.js"></script>
    </body>
 </html>
