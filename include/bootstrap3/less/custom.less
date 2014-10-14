@@ -104,6 +104,21 @@ padding-left: 0px; /* override default */
   margin: 0;
 }
 
+.img-dark {
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.img-dark:hover {
+  opacity: 1;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.img-light:hover {
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
 /* contact form spam honeypot */
 .robotic {
   display: none;
