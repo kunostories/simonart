@@ -45,7 +45,7 @@
                 </div>
                 <div class="form-group">
                   <div class="col-sm-offset-1 col-sm-9">
-                    <button type="submit" class="btn btn-lg btn-inverse">
+                    <button type="submit" class="btn btn-lg btn-default">
                     <span class="glyphicon glyphicon-send"></span> Send Message</button>
                   </div>
                 </div>

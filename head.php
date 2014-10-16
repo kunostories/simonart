@@ -47,10 +47,10 @@
               <div class="inner">
                 <h3 class="head-brand hidden-xs"><a href="/simonart" title="home">Michael Anthony Simon Art</a></h3>
                 <ul class="nav head-nav">
-                  <li><a href="/simonart"><i class="glyphicon glyphicon-home"></i> Home</a></li>
-                  <li><a href="/simonart/cv.php"><i class="glyphicon glyphicon-list-alt"></i> CV</a></li>
+                  <li><a href="/simonart">Home</a></li>
+                  <li><a href="/simonart/cv.php">CV</a></li>
                   <li><a href="/simonart/galleries.php"><i class="glyphicon glyphicon-picture"></i> Galleries</a></li>
-                  <li><a href="/simonart/contact.php"><i class="glyphicon glyphicon-pencil"></i> Contact</a></li>
+                  <li><a href="/simonart/contact.php">Contact</a></li>
                 </ul>
               </div>
             </div>
