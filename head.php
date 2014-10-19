@@ -35,9 +35,7 @@
           <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
               <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
+              Menu
             </button>
             <h3 class="head-brand visible-xs-block"><a href="/" title="home">Michael A. Simon Art</a></h3>
           </div>
