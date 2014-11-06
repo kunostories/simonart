@@ -19,7 +19,7 @@ TODO:
 <ol>
 	<li>Add Bootstrap Validator js for contact form validation</li>
 	<li>Choose one type of image gallery view: carousel, BlueImp, or other</li>
-	<li>Remove dropdown navigation - only show Galleries link (All)</li>
+	<li>~~Remove dropdown navigation - only show Galleries link (All)~~</li>
 	<li>Add images and galleries</li>
 </ol>
 <h2>Requirements:</h2>
