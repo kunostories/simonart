@@ -6,3 +6,4 @@ mail() on [/home/kunostor/public_html/simonart/mailer.php:26]: To: shawn@shawnro
 mail() on [/home/kunostor/public_html/simonart/mailer.php:26]: To: shawn@shawnroe.com -- Headers: from:
 mail() on [/home/kunostor/public_html/simonart/mailer.php:26]: To: shawn@shawnroe.com -- Headers: 
 mail() on [/home/kunostor/public_html/simonart/mailer.php:25]: To: shawn@shawnroe.com -- Headers: Tester Guy <test@test.com>
+mail() on [/home/kunostor/public_html/simonart/mailer.php:24]: To: shawn@shawnroe.com -- Headers:  <>
