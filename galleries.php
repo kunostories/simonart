@@ -15,5 +15,4 @@
             <hr class="visible-xs-block">
           </div>
         </div>
-
 <? include("foot.php"); ?>
