@@ -2,11 +2,13 @@
 
     </div><!--/.wrap-->
 
-    <div class="foot">
+    <!-- TODO: fix footer to push below gallery thumbnails
+    <div class="foot clearfix">
       <div class="inner">
         <p>Site design built on <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="http://shawnroe.com">S. Roe</a>.</p>
       </div>
     </div>
+    -->
 
     <!--JScript-->
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
@@ -14,7 +16,6 @@
 
     <script type="text/javascript">
       $(document).ready(function() {
-        $('#webCarousel').carousel();
         $('.dropdown-toggle').dropdown();
       });
     </script>
