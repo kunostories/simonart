@@ -9,45 +9,36 @@
             <!-- main slider carousel items -->
 
             <div class="carousel-inner">
-              <div class="item active" data-slide-number="0"><img alt="Heart" class=
-              "img-responsive" src="michaelanthonysimon161.jpeg"><div class="carousel-caption"><span class="image-title">Untitled</span></div></div>
+              <div class="item active" data-slide-number="0"><img alt="Heart" class="img-responsive" src="michaelanthonysimon161.jpeg"><div class="carousel-caption"><span class="image-title">Heart - 9.18.2013.16:23:25</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2013</div></div>
 
-              <div class="item" data-slide-number="1"><img alt="Smile" class=
-              "img-responsive" src="michaelanthonysimon165.jpeg"><div class="carousel-caption"><span class="image-title">Untitled</span></div></div>
+              <div class="item" data-slide-number="1"><img alt="Smile" class="img-responsive" src="michaelanthonysimon165.jpeg"><div class="carousel-caption"><span class="image-title">Untitled 10.5.2013.17:47:57</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web, 2013</div></div>
 
               <div class="item" data-slide-number="2"><img
-              class="img-responsive" src="1michaelanthonysimon23.jpeg"><div class="carousel-caption"><span class="image-title">Smile 9.13.2011.16:03:30</span>, 2011, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
+              class="img-responsive" src="1michaelanthonysimon23.jpeg"><div class="carousel-caption"><span class="image-title">Smile 9.13.2011.16:03:30</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
 
               <div class="item" data-slide-number="3"><img
-              class="img-responsive" src="1michaelanthonysimon24.jpeg"><div class="carousel-caption"><span class="image-title">Smile 9.29.2012.12:30:16</span>, 2012, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              class="img-responsive" src="1michaelanthonysimon24.jpeg"><div class="carousel-caption"><span class="image-title">Smile 9.29.2012.12:30:16</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="4"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon25.jpeg"><div class="carousel-caption"><span class="image-title">Smile 9.30.2012.16:09:52</span>, 2012, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon25.jpeg"><div class="carousel-caption"><span class="image-title">Smile 9.30.2012.16:09:52</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="5"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon26.jpeg"><div class="carousel-caption"><span class="image-title">Skull 10.7.2012.6:17:26 P.M.</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon26.jpeg"><div class="carousel-caption"><span class="image-title">Skull 10.7.2012.6:17:26 P.M.</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="6"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon27.jpeg"><div class="carousel-caption"><span class="image-title">Bright-Side Up 11.10.2012.4:57:13 P.M.</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon27.jpeg"><div class="carousel-caption"><span class="image-title">Bright-Side Up 11.10.2012.4:57:13 P.M.</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="7"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon28.jpeg"><div class="carousel-caption"><span class="image-title">Rainbow (View 1)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon28.jpeg"><div class="carousel-caption"><span class="image-title">Rainbow (View 1)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
 
               <div class="item" data-slide-number="8"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon29.jpeg"><div class="carousel-caption"><span class="image-title">Rainbow (View 2)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon29.jpeg"><div class="carousel-caption"><span class="image-title">Rainbow (View 2)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
 
               <div class="item" data-slide-number="9"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon30.jpeg"><div class="carousel-caption"><span class="image-title">Pink and Yellow in Excited States</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web, 2011</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon30.jpeg"><div class="carousel-caption"><span class="image-title">Pink and Yellow in Excited States</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web, 2011</div></div>
 
               <div class="item" data-slide-number="10"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon31.jpeg"><div class="carousel-caption"><span class="image-title">Red, Yellow, and Blue in Excited States (View 1, Version1)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon31.jpeg"><div class="carousel-caption"><span class="image-title">Red, Yellow, and Blue in Excited States (View 1, Version1)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
 
               <div class="item" data-slide-number="11"><img alt=
               "" class="img-responsive" src="1michaelanthonysimon32.jpeg"><div class="carousel-caption">Red, Yellow, and Blue in Excited States (View 2, Version1)</span>, Dimensions Variable, Lacquer on Nephila Clavata Spider Web. 2011</div></div>
@@ -62,32 +53,26 @@
               "" class="img-responsive" src="1michaelanthonysimon35.jpeg"><div class="carousel-caption"><span class="image-title">Faux/Real (Silver) (View 1, Version 1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="15"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon36.jpeg"><div class="carousel-caption"><span class="image-title">Faux/Real (Silver) (View 2, Version 1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon36.jpeg"><div class="carousel-caption"><span class="image-title">Faux/Real (Silver) (View 2, Version 1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="16"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon37.jpeg"><div class="carousel-caption"><span class="image-title">Faux/ Real (Gold) (View 1, Version1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon37.jpeg"><div class="carousel-caption"><span class="image-title">Faux/ Real (Gold) (View 1, Version1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="17"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon38.jpeg"><div class="carousel-caption"><span class="image-title">Faux/ Real (Gold) (View 2, Version1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon38.jpeg"><div class="carousel-caption"><span class="image-title">Faux/ Real (Gold) (View 2, Version1)</span>, Dimensions Variable, Adhesive and Glitter on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="18"><img alt=
               "" class="img-responsive" src=
               "1michaelanthonysimon39.jpeg"><div class="carousel-caption"><span class="image-title">Faux/ Real (Gold) (Detail)</span></div></div>
 
               <div class="item" data-slide-number="19"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon40.jpeg"><div class="carousel-caption"><span class="image-title">On Our Own; Together (View 1)</span>, 107cm x 107cm x 135cm, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon40.jpeg"><div class="carousel-caption"><span class="image-title">On Our Own; Together (View 1)</span>, 107cm x 107cm x 135cm, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="20"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon41.jpeg"><div class="carousel-caption"><span class="image-title">On Our Own; Together (View 2)</span>, 107cm x 107cm x 135cm, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon41.jpeg"><div class="carousel-caption"><span class="image-title">On Our Own; Together (View 2)</span>, 107cm x 107cm x 135cm, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
 
               <div class="item" data-slide-number="21"><img alt=
-              ""
-              class="img-responsive" src="1michaelanthonysimon42.jpeg"><div class="carousel-caption"><span class="image-title">On Our Own; Together (View 3)</span>, 107cm x 107cm x 135cm, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
+              "" class="img-responsive" src="1michaelanthonysimon42.jpeg"><div class="carousel-caption"><span class="image-title">On Our Own; Together (View 3)</span>, 107cm x 107cm x 135cm, Lacquer on Nephila Clavata Spider Web. 2012</div></div>
             </div><!-- main slider carousel nav controls --><a class=
             "carousel-control left" data-slide="prev" href=
             "#testCarousel">‹</a> <a class="carousel-control right" data-slide=

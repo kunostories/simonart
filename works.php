@@ -28,7 +28,7 @@
               <a href="galleries/suspend" title="Suspend gallery"><img class="img-responsive" src="img/suspend-57.jpeg" alt="Michael Simon Suspend gallery"></a>
             </div>
             <div class="col-sm-4 col-xs-6">
-              <a href="galleries/video" title="Video art gallery"><img class="img-responsive" src="img/video-145.jpeg" alt="Michael Simon Video art gallery"></a>
+              <a href="galleries/video-art" title="Video art gallery"><img class="img-responsive" src="img/video-145.jpeg" alt="Michael Simon Video art gallery"></a>
             </div>
             <div class="col-sm-4 col-xs-6">
                <a href="galleries/silence" title="Silence gallery"><img class="img-responsive" src="img/silence-3.jpeg" alt="Michael Simon Silence gallery"></a>
