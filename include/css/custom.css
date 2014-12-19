@@ -50,6 +50,11 @@ a:hover {
   padding-right: 0px;
 }
 
+#art-index > .row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 /*
  * Header
  */
@@ -139,17 +144,22 @@ a > img.img-responsive:hover {
   font-weight: bold;
 }
 
-/* for the webs gallery carousel */
+/* carousel image styles */
 .item {
   height: 500px !important;
 }
 
-.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+#art-index .img-responsive {
+  margin: 0;
+  padding: 8px;
+}
+
+.thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
   margin: auto;
   display: block;
   max-height: 100%;
   max-width: 100%;
-  padding: 15px;
+  padding: 5px;
 }
 
 .carousel-control.left {
@@ -161,60 +171,35 @@ a > img.img-responsive:hover {
 }
 
 .carousel-control {
-  bottom: 250px;
+  top: 40%;
+  font-size: 70px;
 }
 
 .carousel-inner {
-  margin-bottom: 250px;
+  margin-bottom: 10px;
 }
 
-/* general carousel styling */
-#myCarousel .carousel-indicators {
-    bottom: -250px;
-    left: 10px;
-    margin-left: 5px;
+/* thumbnail styles */
+.list-inline li {
+  height: 100px;
+  width: 100px;
+}
+li a img {
+  border: 2px solid #FFFFFF;
+  margin-bottom: 4px;
+}
+.selected img {
+  opacity:0.5;
 }
 
-#myCarousel .carousel-indicators li {
-    border: medium none;
-    border-radius: 0;
-    float: left;
-    height: 100px;
-    margin-bottom: 5px;
-    margin-left: 0;
-    margin-right: 5px !important;
-    margin-top: 0;
-    width: 100px;
+/* caption */
+.new-caption-area {
+  font-size: .85em;
+  text-align: center;
+  margin-bottom: 20px;
 }
-
-#myCarousel .carousel-indicators img {
-    display: block;
-    border: 2px solid #FFFFFF;
-    max-height: 100px;
-    left: 0;
-    max-width: 100px;
-    margin: auto;
-    vertical-align: middle;
-}
-
-#myCarousel .carousel-indicators .active img {
-    border: 2px solid #39b3d7;
-}
-
-#myCarousel .carousel-indicators .active {
-  background-color: transparent;
-}
-.carousel-indicators {
-  width: 100%;
-}
-
-/* specific carousel styling */
-#myCarousel.plants .carousel-indicators {
-  bottom: -925px;
-}
-
-#myCarousel.webs .carousel-indicators {
-  bottom: -300px;
+span.image-title {
+  font-style: italic;
 }
 
 /* nav dropdown styling */
@@ -310,34 +295,6 @@ i.form-control-feedback {
   }
   .form-inline .has-feedback .form-control-feedback {
     top: 0;
-  }
-}
-
-/* media queries for carousel */
-@media (min-width: 768px)  and (max-width: 991px) {
-  #myCarousel.plants .carousel-indicators {
-  bottom: -400px;
-  }
-  #myCarousel.webs .carousel-indicators {
-  bottom: -100px;
-  }
-}
-
-@media (min-width: 992px)  and (max-width: 1199px) {
-  #myCarousel.plants .carousel-indicators {
-  bottom: -290px;
-  }
-  #myCarousel.webs .carousel-indicators {
-  bottom: -100px;
-  }
-}
-
-@media (min-width: 1200px) {
-  #myCarousel.plants .carousel-indicators {
-  bottom: -220px;
-  }
-  #myCarousel.webs .carousel-indicators {
-  bottom: -0px;
   }
 }
 

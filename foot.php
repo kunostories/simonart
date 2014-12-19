@@ -20,20 +20,10 @@
       });
     </script>
 
-    <!-- BlueImp gallery scripts -->
-    <script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-    <script>
-      document.getElementById('links').onclick = function (event) {
-          event = event || window.event;
-          var target = event.target || event.srcElement,
-              link = target.src ? target.parentNode : target,
-              options = {index: link, event: event},
-              links = this.getElementsByTagName('a');
-          blueimp.Gallery(links, options);
-      };
-    </script>
-
     <!-- Bootstrap Validator scripts -->
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.2/js/bootstrapValidator.min.js"></script>
+    <!-- Carousel script from http://www.bootply.com/79859 -->
+      <script src="/simonart/include/js/carousel.js"></script>
+
    </body>
 </html>
