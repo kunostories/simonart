@@ -7,17 +7,17 @@
 		if(($_SESSION['security_code'] == $_POST['security_code']) && (!empty($_SESSION['security_code']))) {
 
 			$my_email = 'shawn@shawnroe.com';
-			$subject = 'SimonArt Note Contact Form';
+			$subject = 'Website Message';
 
 			// get posted data
-			$name = $_POST['cf-name'];
-			$email_address = $_POST['cf-email'];
-			$message = $_POST['cf-message'];
+			$name = $_POST['cf_name'];
+			$email_address = $_POST['cf_email'];
+			$message = $_POST['cf_message'];
 
 			// write email content 
-			$email_content = "Message from SimonArt vultor.com/simonart\n\n\nName: $name\n"; 
+			$email_content = "Message from the website vultor.com/simonart\n\n\nName: $name\n"; 
 			$email_content .= "Email: $email_address\n"; 
-			$email_content .= "Message:\n\n" . stripslashes($message);
+			$email_content .= "Message:\n" . stripslashes($message) . "\n\n -- This is the end of the message sent from the website contact form. --";
 			$from = "$name <$email_address>";
 			     
 			// send email 
@@ -29,12 +29,12 @@
 
 		else {
 			// Insert your code for showing an error message here
-			header('Location: /simonart/contact.php?s='.urlencode('Uh-oh! Message not sent. Try the security code again.'));
+			header('Location: /simonart/error.php');
 			exit;
 		}
 
-		// send user back to form 
-		header('Location: /simonart/contact.php?s='.urlencode('Thanks for the note.'));
+		// send user to success page 
+		header('Location: /simonart/success.php');
 		exit;
 	}
 

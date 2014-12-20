@@ -39,20 +39,23 @@ a:hover {
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
-  margin: 0 auto -60px;
+  margin: 0 auto -50px;
   /* Pad bottom by footer height */
-  padding: 0 0 60px;
+  padding: 0 0 50px;
 }
 
-.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
-
-  padding-left: 0px;
-  padding-right: 0px;
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
-#art-index > .row {
+#works > .row {
   margin-left: 0px;
   margin-right: 0px;
+}
+#works div div {
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 /*
@@ -93,7 +96,7 @@ a:hover {
 padding: 0px;
 }
 
-#art-index > div.row > .col-md-4, #art-index > div.row > .col-sm-6, #art-galleries > div.row > .col-sm-4 {
+#works > div.row > .col-md-4, #works > div.row > .col-sm-6, #art-galleries > div.row > .col-sm-4 {
 padding-right: 0px; /* override default */
 padding-left: 0px; /* override default */
 max-width: 480px;
@@ -139,9 +142,12 @@ a > img.img-responsive:hover {
   display: none;
 }
 
-#contact-alert {
-  text-shadow: none;
-  font-weight: bold;
+label {
+  font-size: 1.69em;
+  font-weight: 200;
+}
+.form-horizontal .control-label {
+  padding-right: 10px;
 }
 
 /* carousel image styles */
@@ -149,7 +155,7 @@ a > img.img-responsive:hover {
   height: 500px !important;
 }
 
-#art-index .img-responsive {
+#works .img-responsive {
   margin: 0;
   padding: 8px;
 }
@@ -198,30 +204,14 @@ li a img {
   text-align: center;
   margin-bottom: 20px;
 }
-span.image-title {
+.image-title {
   font-style: italic;
 }
 
-/* nav dropdown styling */
-.dropdown-menu a {
-  text-shadow: none;
-}
-.dropdown-menu {
-  background-color: #111;
-}
-.open > .dropdown-menu {
-  display: inline-flex;
-}
-.dropdown-menu>li>a {
-  color: #FFF;
-}
-.dropdown-menu>li>a:hover {
-  color: #FFF;
-  background-color: #666;
-}
-.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+/* nav styling */
+.navbar-inverse {
  background-color: #111;
- border-color: inherit; 
+ border: none; 
 }
 
 /*
@@ -229,63 +219,12 @@ span.image-title {
  */
 
 .foot {
-  height: 60px;
+  max-width: 980px;
+  margin: 0 auto;
+  font-size: .8em;
+  height: 50px;
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
-}
-
-/* Custom glyphicon color */
-i.form-control-feedback {
-  color: #111;
-}
-
-/* Glyphicons inside input aligned left from Stackoverflow
- * http://stackoverflow.com/a/18839305
- */
-.has-feedback .form-control {
-  padding-right: 34px;
-}
-.has-feedback .form-control.input-sm,
-.has-feedback.form-group-sm .form-control {
-  padding-right: 30px;
-}
-.has-feedback .form-control.input-lg,
-.has-feedback.form-group-lg .form-control {
-  padding-right: 46px;
-}
-.has-feedback-left .form-control {
-  padding-right: 12px;
-  padding-left: 34px;
-}
-.has-feedback-left .form-control.input-sm,
-.has-feedback-left.form-group-sm .form-control {
-  padding-left: 30px;
-}
-.has-feedback-left .form-control.input-lg,
-.has-feedback-left.form-group-lg .form-control {
-  padding-left: 46px;
-}
-.has-feedback-left .form-control-feedback {
-  left: 0;
-}
-.form-control-feedback {
-  line-height: 34px !important;
-}
-.input-sm + .form-control-feedback,
-.form-horizontal .form-group-sm .form-control-feedback {
-  width: 30px;
-  height: 30px;
-  line-height: 30px !important;
-}
-.input-lg + .form-control-feedback,
-.form-horizontal .form-group-lg .form-control-feedback {
-  width: 46px;
-  height: 46px;
-  line-height: 46px !important;
-}
-.has-feedback label.sr-only ~ .form-control-feedback,
-.has-feedback label.sr-only ~ div .form-control-feedback {
-  top: 0;
 }
 
 @media (min-width: 768px) {
@@ -296,13 +235,4 @@ i.form-control-feedback {
   .form-inline .has-feedback .form-control-feedback {
     top: 0;
   }
-}
-
-.form-horizontal .has-feedback-left .form-control-feedback {
-  left: 15px;
-}
-
-.navbar-inverse {
- background-color: #111;
- border: none; 
 }

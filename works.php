@@ -1,5 +1,5 @@
 <? include("head.php"); ?>
-        <div id="art-index">
+        <div id="works">
           <div class="row"><!--first row-->
             <div class="col-xs-6 visible-xs">
               <a href="galleries/all" title="View all galleries"><img class="img-responsive" src="img/view-all.png" alt="view all galleries"></a>

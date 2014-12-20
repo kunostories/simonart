@@ -12,12 +12,8 @@
     <!-- Bootstrap core CSS -->
     <link href="/simonart/include/bootstrap3/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- BlueImp gallery CSS -->
-    <link rel="stylesheet" href="http://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
-    <link rel="stylesheet" href="/simonart/include/css/bootstrap-image-gallery.min.css">
-
     <!-- Bootstrap Validator CSS -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.2/css/bootstrapValidator.min.css"/>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.2/css/bootstrapValidator.min.css"/>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/simonart/include/css/custom.css"/>
@@ -36,8 +32,7 @@
         <div class="container">
           <div class="head clearfix">
             <div class="inner">
-              <h3 class="head-brand visible-xs"><a href="/simonart" title="home">Michael A. Simon</a></h3>
-              <h3 class="head-brand hidden-xs"><a href="/simonart" title="home">Michael Anthony Simon</a></h3>
+              <h3 class="head-brand"><a href="/simonart" title="home">Michael Anthony Simon</a></h3>
               <ul class="nav head-nav">
                 <li><a href="/simonart">Home</a></li>
                 <li><a href="/simonart/cv.php">CV</a></li>
