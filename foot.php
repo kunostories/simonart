@@ -1,11 +1,12 @@
-      </div><!--/.inner-->
 
     </div><!--/.wrap-->
 
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="foot">
-          <p>Site design built on <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="http://shawnroe.com">S. Roe</a>.</p>
+    <div class="footer-wrap"> <!-- duplicate the alignment of .wrap while maintaining the sticker footer -->
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="foot pull-right">
+            <p>Site design built on <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="http://shawnroe.com">S. Roe</a>.</p>
+          </div>
         </div>
       </div>
     </div>

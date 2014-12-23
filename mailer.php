@@ -6,7 +6,8 @@
 		session_start();
 		if(($_SESSION['security_code'] == $_POST['security_code']) && (!empty($_SESSION['security_code']))) {
 
-			$my_email = 'shawn@shawnroe.com';
+			// michaelanthonysimon@hotmail.com
+			$my_email = 'shawn@shawnroe.com, leroyscroggins@gmail.com';
 			$subject = 'Website Message';
 
 			// get posted data

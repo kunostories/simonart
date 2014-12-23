@@ -43,5 +43,3 @@
           </div>
         </div>
       </nav>
-
-      <div class="inner">
